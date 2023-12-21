@@ -1,0 +1,21 @@
+/*
+
+	if (itemName && price) {
+		itemDetails[itemName] = price;
+		const itemDetailsStr = JSON.stringify(itemDetails);
+		localStorage.setItem('cart', itemDetailsStr);
+	} else {
+		alert('Please enter valid information!!!');
+	}
+
+
+if (itemName && price) {
+   itemDetails.push(itemName, price, quantity);
+		const itemDetailsStr = JSON.stringify(itemDetails);
+		localStorage.setItem('cart', itemDetailsStr);
+
+	} else {
+		alert('Please enter valid information!!!');
+	}
+
+*/
